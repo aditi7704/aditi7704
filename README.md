@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👩‍💻 Aditi Neharkar
 
-<!--
-**aditi7704/aditi7704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year B.Sc. IT Student | Aspiring Software Developer  
+🌐 Passionate about Web Development, AI, and Cybersecurity  
+📍 Pune, Maharashtra, India
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack  
+- **Languages:** Java, Python, PHP, JavaScript, HTML, CSS, SQL  
+- **Databases:** MySQL  
+- **Tools & Platforms:** VS Code, Git & GitHub, WordPress, Anaconda  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning  
+- MERN Stack  
+- Data Structures & Algorithms (DSA)  
+- Docker, AWS, Kubernetes  
+
+## 🌱 Projects  
+- 🚨 Disaster Management System  
+- 🔍 AI Peer Review Circle – StudyLens  
+
+## 💬 Let's Connect  
+I'm always excited to learn, collaborate, and grow.  
+Reach me on: LinkedIn | HackerRank | GitHub
